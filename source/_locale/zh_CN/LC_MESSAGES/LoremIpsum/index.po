@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Copyright © 2022 Sample Author
+# This file is distributed under the same license as the SphinxTemplate
+# Project package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SphinxTemplate Project \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 22:02-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../LoremIpsum/index.md:1
+msgid "Lorem Ipsum"
+msgstr "Lorem Ipsum"
+
+#: ../LoremIpsum/index.md:3
+msgid ""
+"\"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, "
+"consectetur, adipisci velit...\""
+msgstr "\"无人爱苦，亦无人寻之欲之，乃因其苦...\""
+
+#: ../LoremIpsum/index.md:5
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus "
+"molestie urna volutpat convallis tempor. Praesent commodo turpis ac purus"
+" suscipit consectetur. Phasellus cursus velit eget nisi gravida dictum. "
+"In auctor varius nulla posuere tristique. In sollicitudin pellentesque "
+"enim iaculis elementum. Maecenas et nunc in dolor mattis tristique a "
+"rutrum metus. Phasellus hendrerit nisl massa, ut posuere erat cursus eu. "
+"Aliquam tincidunt bibendum metus vitae feugiat. Ut lobortis sodales "
+"risus, vitae scelerisque lorem commodo vitae."
+msgstr ""
+
+#: ../LoremIpsum/index.md:7
+msgid ""
+"Integer nec accumsan justo. Suspendisse nulla ante, dictum faucibus ipsum"
+" nec, interdum porttitor ligula. Nam sed ultrices sapien. Curabitur "
+"sodales lobortis feugiat. Cras ac justo cursus ante tristique sagittis "
+"quis sed ligula. Nunc vitae ultrices arcu. Nulla varius lectus in mi "
+"feugiat vulputate. Phasellus auctor sem id ullamcorper pellentesque. "
+"Pellentesque leo nulla, mollis sit amet pharetra a, maximus in nisi. "
+"Integer id elit iaculis, faucibus ligula vitae, malesuada lorem."
+msgstr ""
+
+#: ../LoremIpsum/index.md:9
+msgid ""
+"Etiam sed massa nec elit porttitor placerat. Donec pharetra leo nibh, id "
+"rhoncus nisl porttitor nec. Praesent est nisl, elementum id euismod at, "
+"ultrices sit amet sem. Vivamus a malesuada eros, vitae venenatis risus. "
+"Donec venenatis, ex vel rhoncus malesuada, erat sapien aliquet ipsum, at "
+"efficitur nulla urna a nulla. Vivamus sed mi a risus tincidunt consequat."
+" Vivamus in odio id mauris iaculis auctor sit amet id nibh."
+msgstr ""
+
+#: ../LoremIpsum/index.md:11
+msgid ""
+"Phasellus id arcu a ex iaculis fermentum. Sed mattis orci convallis nulla"
+" placerat, in hendrerit dui ultrices. Phasellus sit amet sagittis felis, "
+"quis dictum lectus. Integer at quam est. Mauris tincidunt in diam sit "
+"amet mattis. Donec placerat, orci at sodales pulvinar, augue nisl congue "
+"mauris, in elementum felis nibh at neque. Curabitur ac interdum tortor. "
+"Phasellus imperdiet arcu ut libero pellentesque, et bibendum lectus "
+"tempor. Ut tortor lorem, ullamcorper non lacus a, congue facilisis "
+"lectus. Nam malesuada ipsum id velit varius varius. Nulla ullamcorper "
+"orci viverra nunc finibus rhoncus. Sed sit amet lobortis est. Phasellus "
+"non pellentesque nisi, id egestas nisi. Vestibulum ullamcorper porttitor "
+"est, dapibus efficitur dui blandit id."
+msgstr ""
+
+#: ../LoremIpsum/index.md:13
+msgid ""
+"Vivamus pretium auctor luctus. Sed urna ligula, tincidunt non commodo "
+"nec, rhoncus in neque. Proin dui orci, egestas quis nisi id, tincidunt "
+"egestas diam. Fusce lacinia eros bibendum lacus maximus lacinia. "
+"Suspendisse elementum condimentum nunc, sed scelerisque lacus tempor "
+"tincidunt. Ut faucibus velit mauris, id pulvinar sapien pharetra non. Ut "
+"venenatis commodo finibus. Vivamus placerat erat eu turpis laoreet "
+"pharetra non maximus enim. Sed consectetur rutrum rhoncus. Maecenas id "
+"justo risus. Proin a mi interdum, ullamcorper erat a, eleifend leo. "
+"Nullam quis ligula volutpat, volutpat neque ac, maximus ante. Aliquam vel"
+" nibh dui. Etiam commodo hendrerit facilisis."
+msgstr ""
+

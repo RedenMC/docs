@@ -1,0 +1,215 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Copyright © 2022 Sample Author
+# This file is distributed under the same license as the SphinxTemplate
+# Project package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SphinxTemplate Project \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-25 22:02-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../MarkdownExample/index.md:1
+msgid "Example Markdown"
+msgstr "Markdown 示例"
+
+#: ../MarkdownExample/index.md:3
+msgid "h2 Heading"
+msgstr "h2 标题"
+
+#: ../MarkdownExample/index.md:5
+msgid "h3 Heading"
+msgstr "h3 标题"
+
+#: ../MarkdownExample/index.md:7
+msgid "h4 Heading"
+msgstr "h4 标题"
+
+#: ../MarkdownExample/index.md:9
+msgid "h5 Heading"
+msgstr "h5 标题"
+
+#: ../MarkdownExample/index.md:11
+msgid "h6 Heading"
+msgstr "h6 标题"
+
+#: ../MarkdownExample/index.md:13
+msgid "Horizontal Rules"
+msgstr "横向分割线"
+
+#: ../MarkdownExample/index.md:15
+msgid "Three types of horizontal rules are supported."
+msgstr "支持三种横向分割线。"
+
+#: ../MarkdownExample/index.md:19 ../MarkdownExample/index.md:23
+#: ../MarkdownExample/index.md:27
+msgid "text"
+msgstr "文本"
+
+#: ../MarkdownExample/index.md:29
+msgid "Typographic replacements"
+msgstr "排版替换"
+
+#: ../MarkdownExample/index.md:31
+msgid "Enable typographer option to see result."
+msgstr "启用排版选项以查看结果。"
+
+#: ../MarkdownExample/index.md:33
+msgid "(c) (C) (r) (R) (tm) (TM) (p) (P) +-"
+msgstr ""
+
+#: ../MarkdownExample/index.md:35
+msgid "test.. test... test..... test?..... test!...."
+msgstr "测试... 测试... 测试... 测试?... 测试!..."
+
+#: ../MarkdownExample/index.md:37
+msgid "!!!!!! ???? ,,  -- ---"
+msgstr ""
+
+#: ../MarkdownExample/index.md:39
+msgid "\"Smartypants, double quotes\" and 'single quotes'"
+msgstr "\"智能引号，双引号\" 和 '单引号'"
+
+#: ../MarkdownExample/index.md:41
+msgid "Emphasis"
+msgstr "强调"
+
+#: ../MarkdownExample/index.md:43
+msgid "**This is bold text**"
+msgstr "**这是粗体文本**"
+
+#: ../MarkdownExample/index.md:45
+msgid "__This is bold text__"
+msgstr "__这是粗体文本__"
+
+#: ../MarkdownExample/index.md:47
+msgid "*This is italic text*"
+msgstr "*这是斜体文本*"
+
+#: ../MarkdownExample/index.md:49
+msgid "_This is italic text_"
+msgstr "_这是斜体文本_"
+
+#: ../MarkdownExample/index.md:51
+msgid "~~Strikethrough~~"
+msgstr "~~删除线~~"
+
+#: ../MarkdownExample/index.md:53
+msgid "Blockquotes"
+msgstr "块引用"
+
+#: ../MarkdownExample/index.md:55
+msgid "Blockquotes can also be nested..."
+msgstr "块引用也可以嵌套..."
+
+#: ../MarkdownExample/index.md:56
+msgid "...by using additional greater-than signs right next to each other..."
+msgstr "...通过在彼此紧挨着的每个符号后面使用额外的大于号..."
+
+#: ../MarkdownExample/index.md:57
+msgid "...or with spaces between arrows."
+msgstr "...或者箭头之间的空格。"
+
+#: ../MarkdownExample/index.md:59
+msgid "Lists"
+msgstr "列表"
+
+#: ../MarkdownExample/index.md:61
+msgid "Unordered"
+msgstr "无序"
+
+#: ../MarkdownExample/index.md:63
+msgid "Create a list by starting a line with `+`, `-`, or `*`"
+msgstr "通过在行首使用 `+`、`-` 或 `*` 创建列表"
+
+#: ../MarkdownExample/index.md:64
+msgid "Sub-lists are made by indenting 2 spaces:"
+msgstr "通过缩进 2 个空格创建子列表："
+
+#: ../MarkdownExample/index.md:65
+msgid "Marker character change forces new list start:"
+msgstr "标记字符更改会强制开始新列表："
+
+#: ../MarkdownExample/index.md:66
+msgid "Ac tristique libero volutpat at"
+msgstr ""
+
+#: ../MarkdownExample/index.md:67
+msgid "Facilisis in pretium nisl aliquet"
+msgstr ""
+
+#: ../MarkdownExample/index.md:68
+msgid "Nulla volutpat aliquam velit"
+msgstr ""
+
+#: ../MarkdownExample/index.md:69
+msgid "Very easy!"
+msgstr "很容易！"
+
+#: ../MarkdownExample/index.md:71
+msgid "Ordered"
+msgstr "有序"
+
+#: ../MarkdownExample/index.md:73
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: ../MarkdownExample/index.md:74
+msgid "Consectetur adipiscing elit"
+msgstr ""
+
+#: ../MarkdownExample/index.md:75
+msgid "Integer molestie lorem at massa"
+msgstr ""
+
+#: ../MarkdownExample/index.md:77
+msgid "You can use sequential numbers..."
+msgstr "您可以使用连续的数字..."
+
+#: ../MarkdownExample/index.md:78
+msgid "...or keep all the numbers as `1.`"
+msgstr "...或者将所有数字保留为 `1.`"
+
+#: ../MarkdownExample/index.md:80
+msgid "Start numbering with offset:"
+msgstr "从偏移量开始编号："
+
+#: ../MarkdownExample/index.md:82
+msgid "foo"
+msgstr ""
+
+#: ../MarkdownExample/index.md:83
+msgid "bar"
+msgstr ""
+
+#: ../MarkdownExample/index.md:85
+msgid "Code"
+msgstr "代码"
+
+#: ../MarkdownExample/index.md:87
+msgid "Inline `code`"
+msgstr "行内 `代码`"
+
+#: ../MarkdownExample/index.md:89
+msgid "Indented code"
+msgstr "缩进代码"
+
+#: ../MarkdownExample/index.md:96
+msgid "Block code \"fences\""
+msgstr "块代码 \"围栏\""
+
+#: ../MarkdownExample/index.md:102
+msgid "Syntax highlighting"
+msgstr "语法高亮"
+
