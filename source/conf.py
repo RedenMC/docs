@@ -17,9 +17,9 @@ sys.path.insert(0, os.path.abspath(os.path.join('..', '..')))
 
 # -- Project information -----------------------------------------------------
 
-project = 'SphinxTemplate Project'
-copyright = 'Copyright © 2022 Sample Author'
-author = 'Sample Author'
+project = 'Reden Mod'
+copyright = 'Copyright © 2023 RedenMC Team and contributors.'
+author = 'RedenMC Team and contributors'
 
 
 # -- General configuration ---------------------------------------------------

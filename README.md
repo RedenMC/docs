@@ -1,9 +1,9 @@
 **English** | [中文](README.zh.md)
 
-<h1 align="center">SphinxTemplate</h1>
+<h1 align="center">RedenMC/docs</h1>
 
 <p align="center"> 
-  <b>Template for multi-lang Sphinx documentation</b>
+  <b>Documentation for Reden Mod</b>
 </p>
 
 <p align="center">
@@ -63,23 +63,23 @@ Add `-D language=zh_CN` to the end if you want to autobuild a Chinese version of
 
 ## 📜 License
 
-> **Contents of SphinxTemplate are licensed under [CC-BY-NC-SA-4.0 License](LICENSE).**
+> **Contents of RedenMC/docs are licensed under [CC-BY-NC-SA-4.0 License](LICENSE).**
 
 ``` text
-SphinxTemplate (c) by iXORTech, Cubik65536, and contributors.
+RedenMC/docs (c) by RedenMC Team and contributors.
 
-SphinxTemplate is licensed under a
+RedenMC/docs is licensed under a
 Creative Commons Attribution-NonCommercial 4.0 International License.
 
 You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by-nc/4.0/>.
 ```
 
-> **Codes of SphinxTemplate uses [AGPL-3.0-or-later License](LICENSE.CODE) as software license.**
+> **Codes of RedenMC/docs uses [AGPL-3.0-or-later License](LICENSE.CODE) as software license.**
 
 ``` text
-SphinxTemplate - Template for multi-lang Sphinx documentation
-Copyright (C) 2022 iXORTech, Cubik65536, and contributors.
+RedenMC/docs - Documentation for Reden Mod
+Copyright (C) 2023 RedenMC Team and contributors.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published

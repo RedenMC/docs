@@ -1,9 +1,9 @@
 [English](README.en.md) | **中文**
 
-<h1 align="center">SphinxTemplate</h1>
+<h1 align="center">RedenMC/docs</h1>
 
 <p align="center">
-  <b>多语言 Sphinx 文档模板</b>
+  <b>Reden Mod 使用手册与文档</b>
 </p>
 
 <p align="center">
@@ -55,23 +55,23 @@ sphinx-intl update -p ./source/_locale -l zh_CN
 
 ## 📜 协议&许可证
 
-> **SphinxTemplate 的内容基于 [CC-BY-NC-SA-4.0 许可证](license-translations/LICENSE-zh)（[原文](LICENSE)）发行**
+> **RedenMC/docs 的内容基于 [CC-BY-NC-SA-4.0 许可证](license-translations/LICENSE-zh)（[原文](LICENSE)）发行**
 
 ``` text
-SphinxTemplate (c) 由 iXORTech, Cubik65536, 以及 所有贡献者 创作.
+RedenMC/docs (c) 由 RedenMC 团队及所有贡献者创作.
 
-SphinxTemplate 根据知识共享（Creative Commons）
+RedenMC/docs 根据知识共享（Creative Commons）
 署名—非商业性使用—相同方式共享 4.0 公共许可协议进行分发。
 
 您应该已经收到了一份许可证的副本。如果没有，
 请参见 <http://creativecommons.org/licenses/by-nc/4.0/>。
 ```
 
-> **SphinxTemplate 的代码使用 [AGPL-3.0-or-later 协议](license-translations/LICENSE-zh.CODE)（[原文](LICENSE.CODE)）作为软件分发许可证**
+> **RedenMC/docs 的代码使用 [AGPL-3.0-or-later 协议](license-translations/LICENSE-zh.CODE)（[原文](LICENSE.CODE)）作为软件分发许可证**
 
 ``` text
-SphinxTemplate - 多语言 Sphinx 文档模板
-Copyright (C) 2022 iXORTech, Cubik65536 以及 所有贡献者 版权所有。
+RedenMC/docs - Reden Mod 使用手册与文档
+Copyright (C) 2023 RedenMC 团队及所有贡献者版权所有。
 
 本程序是自由软件：你可以根据自由软件基金会发布的 GNU Affero 通用公共许可证的条款，
 即许可证的第3版或（您选择的）任何后来的版本重新发布它和/或修改它。
